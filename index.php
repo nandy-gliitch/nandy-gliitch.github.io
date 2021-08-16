@@ -150,7 +150,7 @@ function carousel() {
   <li class="facebook"><a href="https://www.facebook.com">Like us on Facebook</a></li>
   <li class="google"><a href="https://plus.google.com">Add us to your G+ Circles</a></li>
 </ul>
-</li>
+	</li>
               </ul>
             </div>
           </div>
